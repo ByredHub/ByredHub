@@ -2,7 +2,7 @@
 
 <!-- Language Switcher -->
 [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.md)
-[![Russian](https://img.shields.io/badge/Язык-Русский-red?style=for-the-badge)](README.ru.md)
+[![Russian](https://img.shields.io/badge/Язык-Русский-red?style=for-the-badge)](READMEru.md)
 
 <br>
 
@@ -298,3 +298,4 @@ const isa = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=100&section=footer" />
 
 </div>
+
